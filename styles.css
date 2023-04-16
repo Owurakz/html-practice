@@ -1,0 +1,17 @@
+body { 
+	margin: auto;
+	background-image: url(happyguy.jpg);
+	background-size:cover ;
+	border: 2px green solid;
+
+ }
+
+ h1 {
+ 	background-color: orange; margin: 20px 500px 0px 500px; text-align: center; color: purple;
+ }
+
+ #first { border: 0px grey solid; margin:23px; text-align:center; color:yellow; background-color:brown; 
+ 	width:80%% }
+
+ #midsec { border: 0px orange solid; text-align: center; padding: 40px;
+ 	color:purple;}
