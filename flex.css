@@ -1,0 +1,16 @@
+.flexwork >div { background-color: papayawhip;
+	height: 20vh;
+	border: gold 2px solid;
+	width: 290px;
+/*	margin: 0.5rem;*/
+}
+
+.flexwork{
+	background-color: orange;
+	height: 120vh;
+	display: flex;
+/*	flex-direction: column;*/
+flex-wrap: wrap;
+/*align-content: center;*/
+justify-content: center;
+}
